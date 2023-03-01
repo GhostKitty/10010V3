@@ -702,7 +702,7 @@
       "id": "xream.10010v3",
       "name": "联通余量(v3)",
       "descs_html": [
-        "<a href=\"https://github.com/xream/scripts/tree/main/surge/modules/10010v3\">查看文档</a>",
+        "<a href=\"https://github.com/GhostKitty/10010V3/tree/main/surge/modules/10010v3\">查看文档</a>",
         "<b>登录方式一</b>",
         "仅填写手机号密码和appId 保存 即可自动登录",
         "<b>登录方式二</b>",
@@ -736,19 +736,19 @@
         "@xream.10010.detailText"
       ],
       "author": "@xream",
-      "repo": "https://github.com/xream/scripts/tree/main/surge/modules/10010v3",
+      "repo": "https://github.com/GhostKitty/10010V3/tree/main/surge/modules/10010v3",
       "scripts": [
         {
           "name": "发送验证码(填手机号,保存,再执行)",
-          "script": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/10010v3/10010_send_sms.js"
+          "script": "https://raw.githubusercontent.com/GhostKitty/10010V3/main/surge/modules/10010v3/10010_send_sms.js"
         },
         {
           "name": "用验证码登录(填手机号,验证码,保存,再执行)",
-          "script": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/10010v3/10010_sms_sign.js"
+          "script": "https://raw.githubusercontent.com/GhostKitty/10010V3/main/surge/modules/10010v3/10010_sms_sign.js"
         },
         {
           "name": "手动执行",
-          "script": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/10010v3/10010.js"
+          "script": "https://raw.githubusercontent.com/GhostKitty/10010V3/main/surge/modules/10010v3/10010.js"
         }
       ],
       "settings": [
@@ -921,8 +921,8 @@
         }
       ],
       "icons": [
-        "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/10010v3/assets/icon.png",
-        "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/10010v3/assets/icon.png"
+        "https://raw.githubusercontent.com/GhostKitty/10010V3/main/surge/modules/10010v3/assets/icon.png",
+        "https://raw.githubusercontent.com/GhostKitty/10010V3/main/surge/modules/10010v3/assets/icon.png"
       ]
     },
     {
